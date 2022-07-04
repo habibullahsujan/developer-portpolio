@@ -12,7 +12,7 @@ body {
 .linkedin{
     text-decoration: none;
     background-image:linear-gradient(orange, tomato);
-    font-size: 20px;
+    
     padding:10px 40px;
     border-radius: 10px;
     color:white;
@@ -21,6 +21,7 @@ body {
 
 section {
     display: flex;
+   margin-bottom: 30px;
 }
 .half-width{
     width:50%;
@@ -31,7 +32,10 @@ section {
     width:95%;
 }
 .top-banner{
-    background-image: url("programming view.jpg");
+    background-color: bisque;
     background-repeat: no-repeat;
     
+}
+.dream-big {
+    background-color: bisque;
 }
