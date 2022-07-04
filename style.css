@@ -1,4 +1,4 @@
-span{
+.tomato{
     color:brown;
     
 }
@@ -19,7 +19,7 @@ body {
     font-weight: 700;
 }
 
-section {
+.flexible-container {
     display: flex;
    margin-bottom: 30px;
 }
@@ -39,3 +39,20 @@ section {
 .dream-big {
     background-color: bisque;
 }
+.experience-list {
+    box-shadow: 10px 10px 50px gray;
+    width:80%;
+    padding:20px;
+    margin-left:5%;
+    margin-right:5%;
+    margin-bottom:5%;
+    border-radius: 20px;
+}
+h2{
+    font-size: 30px;;
+}
+footer p{
+    text-align: center;
+}
+
+
